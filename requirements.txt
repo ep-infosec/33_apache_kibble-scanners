@@ -1,0 +1,6 @@
+certifi
+elasticsearch
+psutil
+python-dateutil
+requests
+pyyaml
